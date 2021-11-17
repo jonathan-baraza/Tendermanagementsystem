@@ -16,9 +16,8 @@ A web based online platform that allows the government to manage tenders by adve
 ## Get this project
 ```bash
 After installing git, on your terminal write the following
-* git clone https://github.com/jonathan-baraza/Tendermanagementsystem.git
-* cd Tendermanagementsystem
-* create a mysql database on xamp named Tendermanagement system
-* run migrations with: php artisan migrate
-  
+1. git clone https://github.com/jonathan-baraza/Tendermanagementsystem.git
+2. cd Tendermanagementsystem
+3. create a mysql database on xamp named Tendermanagement system
+4. run migrations with: php artisan migrate
 ```
